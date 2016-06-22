@@ -1,0 +1,11 @@
+Package: TPK
+Type: Package
+Title: Data processing for Tai Po Kau Forestry Plot
+Version: 0.1
+Date: 2014-06-19
+Author: Jinlong Zhang
+Maintainer: Jinlong Zhang <jinlongzhang01@gmail.com>
+Description: Utility functions to process the Tai Po Kau forest plot in Hong Kong. 
+License: GPL-2
+Depends: openxlsx, markdown, knitr
+Packaged: 2014-06-18 17:10:57 UTC; Jinlong
